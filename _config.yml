@@ -1,0 +1,28 @@
+name: My very First Grid site
+favicon: null
+layout_spectrum: 0.7865313834045082
+typography_spectrum: 0.9390944519545883
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7771723475307226
+  lightness: 0.5924124501179904
+  saturation: 0.5648715801071376
+  rhythmicContrast: 0.33012218261137605
+purpose: []
